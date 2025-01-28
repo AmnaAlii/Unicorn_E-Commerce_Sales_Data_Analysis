@@ -31,7 +31,7 @@ The project is divided into 4 parts:
 - Use Tableau to perform exploratory data analysis and pull unique insights from the dataset. Create a dashboard that will dynamically present the findings.
 - Make a one-page report with main insights and recommendations. Record a 5-minute presentation of your findings.
 
-solution links:
+Solution links:
 
 - https://docs.google.com/document/d/1fmAm3SXPIKPBdz-cDLbweJRyDxhvUINqTAIijY955sE/edit
 - https://docs.google.com/spreadsheets/d/1h0J2dQVH53kX5Im0avaq1Ar_UC49k1B5nPAy7aGHJNw/edit#gid=874137822
