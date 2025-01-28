@@ -10,10 +10,11 @@ This mini-project will combine what you have learned in the preceding units on S
 
 The project includes 4 main parts, each with their subtasks:
 
-Data Exploration by SQL
-Data Cleaning using Spreadsheets
-Getting Insights using Tableau
-Executive summary and presentation
+- Data Exploration by SQL
+- Data Cleaning using Spreadsheets
+- Getting Insights using Tableau
+- Executive summary and presentation
+- 
 🦄 Project Background
 The online sector has been slowly eating up market share in the past two decades. E-commerce platforms like Unicorn allow people to buy products online: from books, toys, clothes, and shoes to food, furniture, and other household items. The following dataset includes Unicorn sales data from the years 2015-2018.
 
@@ -22,15 +23,17 @@ Let's suppose that the Unicorn is a family business and is owned by 2 stakeholde
 Your task is to analyze the data, find interesting insights, and identify weak areas and opportunities for Unicorn to boost its business growth 🚀.
 
 🧹Project Logistics
+
 The project is divided into 4 parts:
 
-Explore a Unicorn data sample organized into a database with four tables. Answer predefined questions employing SQL.
-Explore a unified dataset (.csv file) in Spreadsheets. Use your knowledge from the current unit to analyze and visualize the data while finding interesting insights.
-Use Tableau to perform exploratory data analysis and pull unique insights from the dataset. Create a dashboard that will dynamically present the findings.
-Make a one-page report with main insights and recommendations. Record a 5-minute presentation of your findings.
+- Explore a Unicorn data sample organized into a database with four tables. Answer predefined questions employing SQL.
+- Explore a unified dataset (.csv file) in Spreadsheets. Use your knowledge from the current unit to analyze and visualize the data while finding interesting insights.
+- Use Tableau to perform exploratory data analysis and pull unique insights from the dataset. Create a dashboard that will dynamically present the findings.
+- Make a one-page report with main insights and recommendations. Record a 5-minute presentation of your findings.
+
 solution links:
 
-https://docs.google.com/document/d/1fmAm3SXPIKPBdz-cDLbweJRyDxhvUINqTAIijY955sE/edit
-https://docs.google.com/spreadsheets/d/1h0J2dQVH53kX5Im0avaq1Ar_UC49k1B5nPAy7aGHJNw/edit#gid=874137822
-https://public.tableau.com/app/profile/md.arman.kaishar/viz/UnicornAnalysis_Grp4_17156146758480/Dashboard1
-https://docs.google.com/presentation/d/128CJudCQUpXCTxa7HBOnkwBakMd2_EO5ubBcHPKeGzQ/edit#slide=id.g2db82e00042_1_125
+- https://docs.google.com/document/d/1fmAm3SXPIKPBdz-cDLbweJRyDxhvUINqTAIijY955sE/edit
+- https://docs.google.com/spreadsheets/d/1h0J2dQVH53kX5Im0avaq1Ar_UC49k1B5nPAy7aGHJNw/edit#gid=874137822
+- https://public.tableau.com/app/profile/md.arman.kaishar/viz/UnicornAnalysis_Grp4_17156146758480/Dashboard1
+- https://docs.google.com/presentation/d/128CJudCQUpXCTxa7HBOnkwBakMd2_EO5ubBcHPKeGzQ/edit#slide=id.g2db82e00042_1_125
